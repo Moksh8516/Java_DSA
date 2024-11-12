@@ -18,7 +18,7 @@ for(int i=1; i<=5; i++){
   System.out.println("");
 }
 
-// --------- Inverted Star Patterns ----------
+// --------- Half Pyramid Star Patterns ----------
 System.out.println("\n3) Printed Half Pyramid Pattern ");
 for(int i=1; i<=5; i++){
   for(int j=1; j<=i; j++){
